@@ -1,1 +1,6 @@
-<img width=100% src="https://capsule-reder.vercel.app/api?type=waving&color=00bfbf&heigt=180&section=header&text=Jhonatan Esteferson silca Castor&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35"/>
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusAlvarez&theme=gotham)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JhonatanCastor&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
