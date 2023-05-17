@@ -1,3 +1,11 @@
+
+<h1 align="center">Hi 👋, I'm Jhonatan</h1>
+<h3 align="center">I'm currently working on MM Tecnologia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatanCastor&label=Profile%20views&color=0e75b6&style=flat" alt="jhonatanCastor" /> </p>
+
+- 🌱 I’m currently learning **Javascript, NodeJS, TypeScript, React, NodeJS, NestJs, GraphQL PHP, Laravel, MySQL, Postgres**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
