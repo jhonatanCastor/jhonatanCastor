@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule.render.vercel.app/api?type=waving&color=00fbf&height=180&section=header&text=Jhonatan esteferson&fontSize=30&fontColor=ff&animation=twinkling&fontAligny=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+***+***+***;I+from+*****,+**;I+study+systems+development+at+Senai;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
 <h3 align="center">I'm currently working on MM Tecnologia</h3>
