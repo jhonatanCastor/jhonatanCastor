@@ -1,11 +1,11 @@
 
 <img width=100% src="https://capsule.render.vercel.app/api?type=waving&color=00fbf&height=180&section=header&text=Jhonatan esteferson&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jhonatan+Esteferson+Silva+Castor;I+from+Curitiba,+PR;I+study+systems+development+at+Senai;Be+welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jhonatan+Esteferson+Silva+Castor;I+from+Curitiba,+PR;I+study+systems+development+at+Senac;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-<br></br>
-
-- 🌱 I’m currently learning **Javascript, NodeJS, TypeScript, React, NodeJS, NestJs, GraphQL PHP, Laravel, MySQL, Postgres**
+<div align="center">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanCastor&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfb&bg_color=0d1117"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
