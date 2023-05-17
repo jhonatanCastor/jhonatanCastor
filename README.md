@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+***+***+***;I+from+*****,+**;I+study+systems+development+at+Senai;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center">I'm currently working on MM Tecnologia</h3>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonatanCastor&label=Profile%20views&color=0e75b6&style=flat" alt="jhonatanCastor" /> </p>
 
